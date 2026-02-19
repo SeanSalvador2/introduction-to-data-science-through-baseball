@@ -1,0 +1,15 @@
+# Python Basics
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+scikit-learn
+
+# Extracting Baseball Data
+pybaseball
+MLB-StatsAPI
+pylahman
+ezc3d
